@@ -41,9 +41,6 @@ namespace FapMonitor
                     {
                         incognito = (prs.ProcessName == "chrome" && WmiTest(prs.Id));
                     }
-                    else {
-
-                    }
                 }
                LockDoor(incognito);
             }
@@ -59,7 +56,7 @@ namespace FapMonitor
                             return true;
             }
             catch (Exception ex) {
-
+                //not handling exception, invention useless by design 
             }
             return false;
         }
@@ -76,7 +73,7 @@ namespace FapMonitor
                 Thread.Sleep(5);
                 if (serialPort1.IsOpen)
                 {
-                    Console.WriteLine(lockIt ? "l" : "u");
+                    //Console.WriteLine(lockIt ? "l" : "u");
                     serialPort1.WriteLine(lockIt ? "u" : "l");
                     serialPort1.Close();
                 }
