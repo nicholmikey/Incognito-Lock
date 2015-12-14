@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\FapMonitor\FapMonitor\bin\Debug\FapMonitor.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\FapMonitor\FapMonitor\bin\Debug\FapMonitor.exe
+c:\users\michael\documents\visual studio 2015\Projects\FapMonitor\FapMonitor\bin\Debug\FapMonitor.pdb
+c:\users\michael\documents\visual studio 2015\Projects\FapMonitor\FapMonitor\obj\Debug\FapMonitor.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\FapMonitor\FapMonitor\obj\Debug\FapMonitor.exe
+c:\users\michael\documents\visual studio 2015\Projects\FapMonitor\FapMonitor\obj\Debug\FapMonitor.pdb
